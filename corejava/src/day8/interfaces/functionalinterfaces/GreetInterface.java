@@ -1,5 +1,5 @@
 package day8.interfaces.functionalinterfaces;
 
-public class GreetInterface {
-
+public interface GreetInterface {
+	public String greet();
 }
