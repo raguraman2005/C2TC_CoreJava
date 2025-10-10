@@ -1,4 +1,4 @@
-package dauone;
+package day.one;
 
 public class TypeCasting {
 

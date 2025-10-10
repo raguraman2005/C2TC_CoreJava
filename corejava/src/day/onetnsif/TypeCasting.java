@@ -1,4 +1,4 @@
-package dayone;
+package day.onetnsif;
 
 public class TypeCasting {
 

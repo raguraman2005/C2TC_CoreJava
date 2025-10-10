@@ -1,4 +1,4 @@
-package dauone;
+package day.onetnsif;
 
 public class CharDemo {
 	public static void main(String[] args) {

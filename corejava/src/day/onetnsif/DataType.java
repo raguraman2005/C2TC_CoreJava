@@ -1,4 +1,4 @@
-package dauone;
+package day.onetnsif;
 
 public class DataType {
 

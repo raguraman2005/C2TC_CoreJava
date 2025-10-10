@@ -1,4 +1,4 @@
-package dayone;
+package dayonetnsif;
 
 public class CharDemo {
 	public static void main(String[] args) {
