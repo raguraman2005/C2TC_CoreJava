@@ -1,4 +1,4 @@
-package com.tnsdayten;
+package com.tns.dayten;
 
 public class ArrayClassDemo {
 	public static void main(String[] args) {

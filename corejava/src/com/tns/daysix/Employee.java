@@ -1,4 +1,4 @@
-package com.tnsdaysix;
+package com.tns.daysix;
 
 public class Employee {
 	private String name;

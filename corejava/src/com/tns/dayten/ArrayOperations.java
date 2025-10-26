@@ -1,4 +1,4 @@
-package com.tnsdayten;
+package com.tns.dayten;
 
 public class ArrayOperations {
 	static void printArray(int[] arr) {

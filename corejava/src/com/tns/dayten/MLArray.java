@@ -1,4 +1,4 @@
-package com.tnsdayten;
+package com.tns.dayten;
 
 public class MLArray {
 	static void printArray(int c[][])
